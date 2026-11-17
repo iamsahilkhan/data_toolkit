@@ -1,0 +1,20 @@
+{
+  "version": "pick-and-place v1.0",
+  "min_duration_s": 0.15,
+  "labels": {
+    "idle": "Hands are not working on the task. Starts when the last contact ends and stops when a reach begins.",
+    "reach": "Hand moves toward an object. Starts at the first motion toward it and ends at first contact.",
+    "grasp": "Fingers close on the object. Starts at first contact and ends when the object leaves its surface.",
+    "transport": "The object moves through the air. Starts at lift-off and ends when it first touches its destination.",
+    "place": "The object is set down and adjusted. Starts at first touch on the destination and ends when the fingers begin to open.",
+    "release": "Fingers open and withdraw. Starts when the fingers begin to open and ends when contact is fully lost."
+  },
+  "transitions": {
+    "idle": ["reach"],
+    "reach": ["grasp", "idle"],
+    "grasp": ["transport", "release"],
+    "transport": ["place", "release"],
+    "place": ["release"],
+    "release": ["reach", "idle"]
+  }
+}

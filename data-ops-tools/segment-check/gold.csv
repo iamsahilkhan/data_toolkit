@@ -1,0 +1,921 @@
+episode_id,hand,start,end,label,object
+ep000,left,0.0,0.946,idle,
+ep000,left,0.946,1.817,reach,fork
+ep000,left,1.817,3.13,grasp,fork
+ep000,left,3.13,4.32,transport,fork
+ep000,left,4.32,5.722,place,fork
+ep000,left,5.722,6.465,release,fork
+ep000,left,6.465,7.541,reach,wine glass
+ep000,left,7.541,8.397,grasp,wine glass
+ep000,left,8.397,9.701,transport,wine glass
+ep000,left,9.701,10.746,place,wine glass
+ep000,left,10.746,11.589,release,wine glass
+ep000,left,11.589,12.911,idle,
+ep000,right,0.0,0.838,idle,
+ep000,right,0.838,2.017,reach,fork
+ep000,right,2.017,3.209,grasp,fork
+ep000,right,3.209,4.825,transport,fork
+ep000,right,4.825,5.904,place,fork
+ep000,right,5.904,6.508,release,fork
+ep000,right,6.508,7.146,reach,wine glass
+ep000,right,7.146,7.967,grasp,wine glass
+ep000,right,7.967,9.847,transport,wine glass
+ep000,right,9.847,11.147,place,wine glass
+ep000,right,11.147,11.98,release,wine glass
+ep000,right,11.98,12.911,idle,
+ep001,left,0.0,0.724,idle,
+ep001,left,0.724,1.815,reach,cup
+ep001,left,1.815,2.765,grasp,cup
+ep001,left,2.765,3.955,transport,cup
+ep001,left,3.955,5.324,place,cup
+ep001,left,5.324,6.206,release,cup
+ep001,left,6.206,12.003,idle,
+ep001,right,0.0,0.953,idle,
+ep001,right,0.953,1.6,reach,wine glass
+ep001,right,1.6,2.428,grasp,wine glass
+ep001,right,2.428,3.537,transport,wine glass
+ep001,right,3.537,4.794,place,wine glass
+ep001,right,4.794,5.47,release,wine glass
+ep001,right,5.47,6.224,reach,fork
+ep001,right,6.224,7.519,grasp,fork
+ep001,right,7.519,9.115,transport,fork
+ep001,right,9.115,10.262,place,fork
+ep001,right,10.262,10.914,release,fork
+ep001,right,10.914,12.003,idle,
+ep002,left,0.0,0.776,idle,
+ep002,left,0.776,1.426,reach,wine glass
+ep002,left,1.426,2.677,grasp,wine glass
+ep002,left,2.677,3.706,transport,wine glass
+ep002,left,3.706,5.007,place,wine glass
+ep002,left,5.007,5.751,release,wine glass
+ep002,left,5.751,6.926,reach,cup
+ep002,left,6.926,7.793,grasp,cup
+ep002,left,7.793,9.573,transport,cup
+ep002,left,9.573,10.904,place,cup
+ep002,left,10.904,11.649,release,cup
+ep002,left,11.649,12.808,idle,
+ep002,right,0.0,0.72,idle,
+ep002,right,0.72,1.442,reach,wine glass
+ep002,right,1.442,2.344,grasp,wine glass
+ep002,right,2.344,4.249,transport,wine glass
+ep002,right,4.249,5.579,place,wine glass
+ep002,right,5.579,6.312,release,wine glass
+ep002,right,6.312,7.108,reach,cup
+ep002,right,7.108,8.308,grasp,cup
+ep002,right,8.308,9.506,transport,cup
+ep002,right,9.506,10.722,place,cup
+ep002,right,10.722,11.563,release,cup
+ep002,right,11.563,12.808,idle,
+ep003,left,0.0,0.64,idle,
+ep003,left,0.64,1.368,reach,plate
+ep003,left,1.368,2.708,grasp,plate
+ep003,left,2.708,4.688,transport,plate
+ep003,left,4.688,6.177,place,plate
+ep003,left,6.177,6.938,release,plate
+ep003,left,6.938,12.699,idle,
+ep003,right,0.0,0.705,idle,
+ep003,right,0.705,1.514,reach,plate
+ep003,right,1.514,2.364,grasp,plate
+ep003,right,2.364,3.804,transport,plate
+ep003,right,3.804,5.08,place,plate
+ep003,right,5.08,5.91,release,plate
+ep003,right,5.91,7.062,reach,fork
+ep003,right,7.062,7.993,grasp,fork
+ep003,right,7.993,9.86,transport,fork
+ep003,right,9.86,11.075,place,fork
+ep003,right,11.075,11.685,release,fork
+ep003,right,11.685,12.699,idle,
+ep004,left,0.0,0.677,idle,
+ep004,left,0.677,1.294,reach,wine glass
+ep004,left,1.294,2.25,grasp,wine glass
+ep004,left,2.25,3.952,transport,wine glass
+ep004,left,3.952,5.441,place,wine glass
+ep004,left,5.441,6.052,release,wine glass
+ep004,left,6.052,13.385,idle,
+ep004,right,0.0,0.875,idle,
+ep004,right,0.875,1.909,reach,bowl
+ep004,right,1.909,2.856,grasp,bowl
+ep004,right,2.856,4.354,transport,bowl
+ep004,right,4.354,5.604,place,bowl
+ep004,right,5.604,6.379,release,bowl
+ep004,right,6.379,7.353,reach,wine glass
+ep004,right,7.353,8.584,grasp,wine glass
+ep004,right,8.584,10.285,transport,wine glass
+ep004,right,10.285,11.724,place,wine glass
+ep004,right,11.724,12.331,release,wine glass
+ep004,right,12.331,13.385,idle,
+ep005,left,0.0,0.938,idle,
+ep005,left,0.938,1.782,reach,cup
+ep005,left,1.782,2.798,grasp,cup
+ep005,left,2.798,4.168,transport,cup
+ep005,left,4.168,5.629,place,cup
+ep005,left,5.629,6.411,release,cup
+ep005,left,6.411,13.048,idle,
+ep005,right,0.0,0.729,idle,
+ep005,right,0.729,1.811,reach,plate
+ep005,right,1.811,3.033,grasp,plate
+ep005,right,3.033,4.894,transport,plate
+ep005,right,4.894,6.209,place,plate
+ep005,right,6.209,6.93,release,plate
+ep005,right,6.93,7.645,reach,wine glass
+ep005,right,7.645,8.795,grasp,wine glass
+ep005,right,8.795,10.136,transport,wine glass
+ep005,right,10.136,11.518,place,wine glass
+ep005,right,11.518,12.201,release,wine glass
+ep005,right,12.201,13.048,idle,
+ep006,left,0.0,0.978,idle,
+ep006,left,0.978,1.749,reach,fork
+ep006,left,1.749,2.788,grasp,fork
+ep006,left,2.788,4.1,transport,fork
+ep006,left,4.1,5.366,place,fork
+ep006,left,5.366,6.11,release,fork
+ep006,left,6.11,7.047,reach,bowl
+ep006,left,7.047,8.017,grasp,bowl
+ep006,left,8.017,9.734,transport,bowl
+ep006,left,9.734,10.882,place,bowl
+ep006,left,10.882,11.486,release,bowl
+ep006,left,11.486,13.272,idle,
+ep006,right,0.0,0.853,idle,
+ep006,right,0.853,1.906,reach,fork
+ep006,right,1.906,2.94,grasp,fork
+ep006,right,2.94,4.837,transport,fork
+ep006,right,4.837,6.212,place,fork
+ep006,right,6.212,6.827,release,fork
+ep006,right,6.827,7.471,reach,bowl
+ep006,right,7.471,8.814,grasp,bowl
+ep006,right,8.814,10.244,transport,bowl
+ep006,right,10.244,11.482,place,bowl
+ep006,right,11.482,12.374,release,bowl
+ep006,right,12.374,13.272,idle,
+ep007,left,0.0,0.819,idle,
+ep007,left,0.819,1.676,reach,cup
+ep007,left,1.676,2.698,grasp,cup
+ep007,left,2.698,3.795,transport,cup
+ep007,left,3.795,5.232,place,cup
+ep007,left,5.232,5.856,release,cup
+ep007,left,5.856,6.715,reach,plate
+ep007,left,6.715,7.856,grasp,plate
+ep007,left,7.856,9.671,transport,plate
+ep007,left,9.671,10.903,place,plate
+ep007,left,10.903,11.75,release,plate
+ep007,left,11.75,12.554,idle,
+ep007,right,0.0,0.685,idle,
+ep007,right,0.685,1.334,reach,wine glass
+ep007,right,1.334,2.317,grasp,wine glass
+ep007,right,2.317,4.042,transport,wine glass
+ep007,right,4.042,5.389,place,wine glass
+ep007,right,5.389,6.073,release,wine glass
+ep007,right,6.073,6.805,reach,cup
+ep007,right,6.805,7.999,grasp,cup
+ep007,right,7.999,9.326,transport,cup
+ep007,right,9.326,10.779,place,cup
+ep007,right,10.779,11.476,release,cup
+ep007,right,11.476,12.554,idle,
+ep008,left,0.0,0.728,idle,
+ep008,left,0.728,1.583,reach,fork
+ep008,left,1.583,2.559,grasp,fork
+ep008,left,2.559,4.528,transport,fork
+ep008,left,4.528,5.558,place,fork
+ep008,left,5.558,6.25,release,fork
+ep008,left,6.25,18.0,idle,
+ep008,right,0.0,0.662,idle,
+ep008,right,0.662,1.81,reach,cup
+ep008,right,1.81,3.061,grasp,cup
+ep008,right,3.061,4.079,transport,cup
+ep008,right,4.079,5.319,place,cup
+ep008,right,5.319,6.159,release,cup
+ep008,right,6.159,6.824,reach,bowl
+ep008,right,6.824,7.735,grasp,bowl
+ep008,right,7.735,8.953,transport,bowl
+ep008,right,8.953,10.07,place,bowl
+ep008,right,10.07,10.885,release,bowl
+ep008,right,10.885,11.791,reach,wine glass
+ep008,right,11.791,12.856,grasp,wine glass
+ep008,right,12.856,14.75,transport,wine glass
+ep008,right,14.75,15.952,place,wine glass
+ep008,right,15.952,16.825,release,wine glass
+ep008,right,16.825,18.0,idle,
+ep009,left,0.0,0.605,idle,
+ep009,left,0.605,1.632,reach,fork
+ep009,left,1.632,2.717,grasp,fork
+ep009,left,2.717,4.011,transport,fork
+ep009,left,4.011,5.067,place,fork
+ep009,left,5.067,5.899,release,fork
+ep009,left,5.899,7.04,reach,cup
+ep009,left,7.04,7.931,grasp,cup
+ep009,left,7.931,9.559,transport,cup
+ep009,left,9.559,11.028,place,cup
+ep009,left,11.028,11.852,release,cup
+ep009,left,11.852,13.034,idle,
+ep009,right,0.0,0.822,idle,
+ep009,right,0.822,1.576,reach,plate
+ep009,right,1.576,2.496,grasp,plate
+ep009,right,2.496,4.228,transport,plate
+ep009,right,4.228,5.392,place,plate
+ep009,right,5.392,6.276,release,plate
+ep009,right,6.276,7.158,reach,wine glass
+ep009,right,7.158,8.342,grasp,wine glass
+ep009,right,8.342,9.789,transport,wine glass
+ep009,right,9.789,10.98,place,wine glass
+ep009,right,10.98,11.61,release,wine glass
+ep009,right,11.61,13.034,idle,
+ep010,left,0.0,0.974,idle,
+ep010,left,0.974,1.747,reach,plate
+ep010,left,1.747,3.085,grasp,plate
+ep010,left,3.085,4.326,transport,plate
+ep010,left,4.326,5.613,place,plate
+ep010,left,5.613,6.462,release,plate
+ep010,left,6.462,18.711,idle,
+ep010,right,0.0,0.925,idle,
+ep010,right,0.925,1.544,reach,fork
+ep010,right,1.544,2.452,grasp,fork
+ep010,right,2.452,4.439,transport,fork
+ep010,right,4.439,5.908,place,fork
+ep010,right,5.908,6.706,release,fork
+ep010,right,6.706,7.76,reach,bowl
+ep010,right,7.76,9.068,grasp,bowl
+ep010,right,9.068,10.975,transport,bowl
+ep010,right,10.975,12.282,place,bowl
+ep010,right,12.282,13.074,release,bowl
+ep010,right,13.074,13.769,reach,plate
+ep010,right,13.769,14.817,grasp,plate
+ep010,right,14.817,15.85,transport,plate
+ep010,right,15.85,17.114,place,plate
+ep010,right,17.114,17.749,release,plate
+ep010,right,17.749,18.711,idle,
+ep011,left,0.0,0.657,idle,
+ep011,left,0.657,1.395,reach,wine glass
+ep011,left,1.395,2.379,grasp,wine glass
+ep011,left,2.379,3.834,transport,wine glass
+ep011,left,3.834,4.99,place,wine glass
+ep011,left,4.99,5.688,release,wine glass
+ep011,left,5.688,6.848,reach,cup
+ep011,left,6.848,8.235,grasp,cup
+ep011,left,8.235,9.707,transport,cup
+ep011,left,9.707,10.81,place,cup
+ep011,left,10.81,11.499,release,cup
+ep011,left,11.499,12.901,idle,
+ep011,right,0.0,0.678,idle,
+ep011,right,0.678,1.818,reach,bowl
+ep011,right,1.818,2.627,grasp,bowl
+ep011,right,2.627,4.263,transport,bowl
+ep011,right,4.263,5.612,place,bowl
+ep011,right,5.612,6.38,release,bowl
+ep011,right,6.38,7.359,reach,wine glass
+ep011,right,7.359,8.274,grasp,wine glass
+ep011,right,8.274,10.154,transport,wine glass
+ep011,right,10.154,11.179,place,wine glass
+ep011,right,11.179,11.811,release,wine glass
+ep011,right,11.811,12.901,idle,
+ep012,left,0.0,0.941,idle,
+ep012,left,0.941,1.84,reach,wine glass
+ep012,left,1.84,2.662,grasp,wine glass
+ep012,left,2.662,4.258,transport,wine glass
+ep012,left,4.258,5.616,place,wine glass
+ep012,left,5.616,6.388,release,wine glass
+ep012,left,6.388,12.334,idle,
+ep012,right,0.0,0.73,idle,
+ep012,right,0.73,1.341,reach,wine glass
+ep012,right,1.341,2.438,grasp,wine glass
+ep012,right,2.438,3.873,transport,wine glass
+ep012,right,3.873,5.094,place,wine glass
+ep012,right,5.094,5.773,release,wine glass
+ep012,right,5.773,6.416,reach,plate
+ep012,right,6.416,7.761,grasp,plate
+ep012,right,7.761,9.33,transport,plate
+ep012,right,9.33,10.601,place,plate
+ep012,right,10.601,11.439,release,plate
+ep012,right,11.439,12.334,idle,
+ep013,left,0.0,0.974,idle,
+ep013,left,0.974,1.803,reach,cup
+ep013,left,1.803,3.072,grasp,cup
+ep013,left,3.072,4.287,transport,cup
+ep013,left,4.287,5.461,place,cup
+ep013,left,5.461,6.116,release,cup
+ep013,left,6.116,7.198,reach,wine glass
+ep013,left,7.198,8.286,grasp,wine glass
+ep013,left,8.286,9.687,transport,wine glass
+ep013,left,9.687,10.984,place,wine glass
+ep013,left,10.984,11.811,release,wine glass
+ep013,left,11.811,13.277,idle,
+ep013,right,0.0,0.997,idle,
+ep013,right,0.997,2.115,reach,cup
+ep013,right,2.115,3.038,grasp,cup
+ep013,right,3.038,4.421,transport,cup
+ep013,right,4.421,5.457,place,cup
+ep013,right,5.457,6.264,release,cup
+ep013,right,6.264,7.434,reach,bowl
+ep013,right,7.434,8.606,grasp,bowl
+ep013,right,8.606,10.125,transport,bowl
+ep013,right,10.125,11.496,place,bowl
+ep013,right,11.496,12.25,release,bowl
+ep013,right,12.25,13.277,idle,
+ep014,left,0.0,0.808,idle,
+ep014,left,0.808,1.953,reach,bowl
+ep014,left,1.953,3.235,grasp,bowl
+ep014,left,3.235,4.714,transport,bowl
+ep014,left,4.714,5.842,place,bowl
+ep014,left,5.842,6.698,release,bowl
+ep014,left,6.698,12.271,idle,
+ep014,right,0.0,0.961,idle,
+ep014,right,0.961,1.78,reach,plate
+ep014,right,1.78,2.617,grasp,plate
+ep014,right,2.617,4.022,transport,plate
+ep014,right,4.022,5.049,place,plate
+ep014,right,5.049,5.798,release,plate
+ep014,right,5.798,6.578,reach,wine glass
+ep014,right,6.578,7.809,grasp,wine glass
+ep014,right,7.809,9.695,transport,wine glass
+ep014,right,9.695,10.731,place,wine glass
+ep014,right,10.731,11.342,release,wine glass
+ep014,right,11.342,12.271,idle,
+ep015,left,0.0,0.695,idle,
+ep015,left,0.695,1.512,reach,cup
+ep015,left,1.512,2.736,grasp,cup
+ep015,left,2.736,4.653,transport,cup
+ep015,left,4.653,6.022,place,cup
+ep015,left,6.022,6.885,release,cup
+ep015,left,6.885,7.976,reach,plate
+ep015,left,7.976,9.307,grasp,plate
+ep015,left,9.307,10.618,transport,plate
+ep015,left,10.618,12.042,place,plate
+ep015,left,12.042,12.796,release,plate
+ep015,left,12.796,13.867,idle,
+ep015,right,0.0,0.665,idle,
+ep015,right,0.665,1.787,reach,fork
+ep015,right,1.787,2.619,grasp,fork
+ep015,right,2.619,3.873,transport,fork
+ep015,right,3.873,5.127,place,fork
+ep015,right,5.127,5.966,release,fork
+ep015,right,5.966,6.717,reach,fork
+ep015,right,6.717,7.898,grasp,fork
+ep015,right,7.898,9.266,transport,fork
+ep015,right,9.266,10.607,place,fork
+ep015,right,10.607,11.262,release,fork
+ep015,right,11.262,13.867,idle,
+ep016,left,0.0,0.794,idle,
+ep016,left,0.794,1.605,reach,fork
+ep016,left,1.605,2.74,grasp,fork
+ep016,left,2.74,4.298,transport,fork
+ep016,left,4.298,5.405,place,fork
+ep016,left,5.405,6.19,release,fork
+ep016,left,6.19,6.942,reach,wine glass
+ep016,left,6.942,7.855,grasp,wine glass
+ep016,left,7.855,9.146,transport,wine glass
+ep016,left,9.146,10.271,place,wine glass
+ep016,left,10.271,11.112,release,wine glass
+ep016,left,11.112,17.623,idle,
+ep016,right,0.0,0.619,idle,
+ep016,right,0.619,1.786,reach,plate
+ep016,right,1.786,2.909,grasp,plate
+ep016,right,2.909,4.584,transport,plate
+ep016,right,4.584,5.719,place,plate
+ep016,right,5.719,6.327,release,plate
+ep016,right,6.327,7.113,reach,wine glass
+ep016,right,7.113,8.221,grasp,wine glass
+ep016,right,8.221,9.232,transport,wine glass
+ep016,right,9.232,10.337,place,wine glass
+ep016,right,10.337,11.224,release,wine glass
+ep016,right,11.224,12.285,reach,plate
+ep016,right,12.285,13.244,grasp,plate
+ep016,right,13.244,14.489,transport,plate
+ep016,right,14.489,15.951,place,plate
+ep016,right,15.951,16.699,release,plate
+ep016,right,16.699,17.623,idle,
+ep017,left,0.0,0.694,idle,
+ep017,left,0.694,1.791,reach,cup
+ep017,left,1.791,3.07,grasp,cup
+ep017,left,3.07,4.581,transport,cup
+ep017,left,4.581,6.078,place,cup
+ep017,left,6.078,6.698,release,cup
+ep017,left,6.698,17.747,idle,
+ep017,right,0.0,0.737,idle,
+ep017,right,0.737,1.821,reach,wine glass
+ep017,right,1.821,2.894,grasp,wine glass
+ep017,right,2.894,4.43,transport,wine glass
+ep017,right,4.43,5.863,place,wine glass
+ep017,right,5.863,6.522,release,wine glass
+ep017,right,6.522,7.699,reach,bowl
+ep017,right,7.699,8.642,grasp,bowl
+ep017,right,8.642,9.749,transport,bowl
+ep017,right,9.749,10.969,place,bowl
+ep017,right,10.969,11.796,release,bowl
+ep017,right,11.796,12.44,reach,cup
+ep017,right,12.44,13.538,grasp,cup
+ep017,right,13.538,14.594,transport,cup
+ep017,right,14.594,16.029,place,cup
+ep017,right,16.029,16.92,release,cup
+ep017,right,16.92,17.747,idle,
+ep018,left,0.0,0.869,idle,
+ep018,left,0.869,1.478,reach,cup
+ep018,left,1.478,2.503,grasp,cup
+ep018,left,2.503,4.096,transport,cup
+ep018,left,4.096,5.529,place,cup
+ep018,left,5.529,6.246,release,cup
+ep018,left,6.246,13.129,idle,
+ep018,right,0.0,0.928,idle,
+ep018,right,0.928,1.591,reach,wine glass
+ep018,right,1.591,2.785,grasp,wine glass
+ep018,right,2.785,4.238,transport,wine glass
+ep018,right,4.238,5.343,place,wine glass
+ep018,right,5.343,6.18,release,wine glass
+ep018,right,6.18,7.005,reach,plate
+ep018,right,7.005,8.239,grasp,plate
+ep018,right,8.239,9.908,transport,plate
+ep018,right,9.908,11.08,place,plate
+ep018,right,11.08,11.949,release,plate
+ep018,right,11.949,13.129,idle,
+ep019,left,0.0,0.787,idle,
+ep019,left,0.787,1.74,reach,cup
+ep019,left,1.74,2.642,grasp,cup
+ep019,left,2.642,3.746,transport,cup
+ep019,left,3.746,4.815,place,cup
+ep019,left,4.815,5.685,release,cup
+ep019,left,5.685,6.378,reach,wine glass
+ep019,left,6.378,7.76,grasp,wine glass
+ep019,left,7.76,9.285,transport,wine glass
+ep019,left,9.285,10.488,place,wine glass
+ep019,left,10.488,11.272,release,wine glass
+ep019,left,11.272,12.417,idle,
+ep019,right,0.0,0.765,idle,
+ep019,right,0.765,1.503,reach,plate
+ep019,right,1.503,2.781,grasp,plate
+ep019,right,2.781,3.89,transport,plate
+ep019,right,3.89,5.259,place,plate
+ep019,right,5.259,5.972,release,plate
+ep019,right,5.972,6.891,reach,bowl
+ep019,right,6.891,7.708,grasp,bowl
+ep019,right,7.708,8.818,transport,bowl
+ep019,right,8.818,9.968,place,bowl
+ep019,right,9.968,10.858,release,bowl
+ep019,right,10.858,12.417,idle,
+ep020,left,0.0,0.85,idle,
+ep020,left,0.85,1.533,reach,wine glass
+ep020,left,1.533,2.537,grasp,wine glass
+ep020,left,2.537,4.255,transport,wine glass
+ep020,left,4.255,5.563,place,wine glass
+ep020,left,5.563,6.368,release,wine glass
+ep020,left,6.368,7.316,reach,cup
+ep020,left,7.316,8.119,grasp,cup
+ep020,left,8.119,9.856,transport,cup
+ep020,left,9.856,11.065,place,cup
+ep020,left,11.065,11.869,release,cup
+ep020,left,11.869,13.297,idle,
+ep020,right,0.0,0.669,idle,
+ep020,right,0.669,1.533,reach,plate
+ep020,right,1.533,2.784,grasp,plate
+ep020,right,2.784,4.162,transport,plate
+ep020,right,4.162,5.386,place,plate
+ep020,right,5.386,6.117,release,plate
+ep020,right,6.117,6.984,reach,plate
+ep020,right,6.984,8.322,grasp,plate
+ep020,right,8.322,10.05,transport,plate
+ep020,right,10.05,11.468,place,plate
+ep020,right,11.468,12.355,release,plate
+ep020,right,12.355,13.297,idle,
+ep021,left,0.0,0.639,idle,
+ep021,left,0.639,1.37,reach,cup
+ep021,left,1.37,2.29,grasp,cup
+ep021,left,2.29,3.825,transport,cup
+ep021,left,3.825,5.13,place,cup
+ep021,left,5.13,5.766,release,cup
+ep021,left,5.766,6.715,reach,cup
+ep021,left,6.715,8.055,grasp,cup
+ep021,left,8.055,9.979,transport,cup
+ep021,left,9.979,11.324,place,cup
+ep021,left,11.324,12.033,release,cup
+ep021,left,12.033,17.842,idle,
+ep021,right,0.0,0.923,idle,
+ep021,right,0.923,2.037,reach,wine glass
+ep021,right,2.037,3.273,grasp,wine glass
+ep021,right,3.273,4.538,transport,wine glass
+ep021,right,4.538,5.663,place,wine glass
+ep021,right,5.663,6.269,release,wine glass
+ep021,right,6.269,7.402,reach,wine glass
+ep021,right,7.402,8.603,grasp,wine glass
+ep021,right,8.603,9.89,transport,wine glass
+ep021,right,9.89,11.17,place,wine glass
+ep021,right,11.17,11.849,release,wine glass
+ep021,right,11.849,12.612,reach,plate
+ep021,right,12.612,13.583,grasp,plate
+ep021,right,13.583,14.861,transport,plate
+ep021,right,14.861,16.116,place,plate
+ep021,right,16.116,16.978,release,plate
+ep021,right,16.978,17.842,idle,
+ep022,left,0.0,0.763,idle,
+ep022,left,0.763,1.495,reach,bowl
+ep022,left,1.495,2.53,grasp,bowl
+ep022,left,2.53,4.428,transport,bowl
+ep022,left,4.428,5.549,place,bowl
+ep022,left,5.549,6.164,release,bowl
+ep022,left,6.164,17.892,idle,
+ep022,right,0.0,0.734,idle,
+ep022,right,0.734,1.607,reach,bowl
+ep022,right,1.607,2.548,grasp,bowl
+ep022,right,2.548,4.43,transport,bowl
+ep022,right,4.43,5.517,place,bowl
+ep022,right,5.517,6.162,release,bowl
+ep022,right,6.162,7.033,reach,bowl
+ep022,right,7.033,7.966,grasp,bowl
+ep022,right,7.966,9.885,transport,bowl
+ep022,right,9.885,10.977,place,bowl
+ep022,right,10.977,11.78,release,bowl
+ep022,right,11.78,12.537,reach,wine glass
+ep022,right,12.537,13.65,grasp,wine glass
+ep022,right,13.65,14.905,transport,wine glass
+ep022,right,14.905,16.344,place,wine glass
+ep022,right,16.344,16.999,release,wine glass
+ep022,right,16.999,17.892,idle,
+ep023,left,0.0,0.855,idle,
+ep023,left,0.855,1.632,reach,plate
+ep023,left,1.632,2.908,grasp,plate
+ep023,left,2.908,4.88,transport,plate
+ep023,left,4.88,6.11,place,plate
+ep023,left,6.11,6.891,release,plate
+ep023,left,6.891,7.77,reach,fork
+ep023,left,7.77,8.685,grasp,fork
+ep023,left,8.685,10.629,transport,fork
+ep023,left,10.629,12.118,place,fork
+ep023,left,12.118,12.725,release,fork
+ep023,left,12.725,13.83,idle,
+ep023,right,0.0,0.817,idle,
+ep023,right,0.817,1.515,reach,bowl
+ep023,right,1.515,2.419,grasp,bowl
+ep023,right,2.419,4.155,transport,bowl
+ep023,right,4.155,5.261,place,bowl
+ep023,right,5.261,5.867,release,bowl
+ep023,right,5.867,6.721,reach,cup
+ep023,right,6.721,8.098,grasp,cup
+ep023,right,8.098,9.71,transport,cup
+ep023,right,9.71,10.742,place,cup
+ep023,right,10.742,11.349,release,cup
+ep023,right,11.349,13.83,idle,
+ep024,left,0.0,0.971,idle,
+ep024,left,0.971,1.984,reach,cup
+ep024,left,1.984,3.052,grasp,cup
+ep024,left,3.052,4.351,transport,cup
+ep024,left,4.351,5.685,place,cup
+ep024,left,5.685,6.323,release,cup
+ep024,left,6.323,7.402,reach,cup
+ep024,left,7.402,8.629,grasp,cup
+ep024,left,8.629,10.438,transport,cup
+ep024,left,10.438,11.839,place,cup
+ep024,left,11.839,12.492,release,cup
+ep024,left,12.492,13.618,idle,
+ep024,right,0.0,0.886,idle,
+ep024,right,0.886,2.037,reach,plate
+ep024,right,2.037,2.851,grasp,plate
+ep024,right,2.851,4.363,transport,plate
+ep024,right,4.363,5.535,place,plate
+ep024,right,5.535,6.372,release,plate
+ep024,right,6.372,7.377,reach,wine glass
+ep024,right,7.377,8.417,grasp,wine glass
+ep024,right,8.417,10.357,transport,wine glass
+ep024,right,10.357,11.79,place,wine glass
+ep024,right,11.79,12.683,release,wine glass
+ep024,right,12.683,13.618,idle,
+ep025,left,0.0,0.835,idle,
+ep025,left,0.835,2.033,reach,fork
+ep025,left,2.033,3.15,grasp,fork
+ep025,left,3.15,4.339,transport,fork
+ep025,left,4.339,5.722,place,fork
+ep025,left,5.722,6.339,release,fork
+ep025,left,6.339,7.049,reach,cup
+ep025,left,7.049,8.431,grasp,cup
+ep025,left,8.431,10.218,transport,cup
+ep025,left,10.218,11.51,place,cup
+ep025,left,11.51,12.391,release,cup
+ep025,left,12.391,17.784,idle,
+ep025,right,0.0,0.617,idle,
+ep025,right,0.617,1.491,reach,plate
+ep025,right,1.491,2.55,grasp,plate
+ep025,right,2.55,3.657,transport,plate
+ep025,right,3.657,4.894,place,plate
+ep025,right,4.894,5.78,release,plate
+ep025,right,5.78,6.711,reach,plate
+ep025,right,6.711,7.512,grasp,plate
+ep025,right,7.512,8.977,transport,plate
+ep025,right,8.977,10.284,place,plate
+ep025,right,10.284,11.145,release,plate
+ep025,right,11.145,12.044,reach,fork
+ep025,right,12.044,13.315,grasp,fork
+ep025,right,13.315,14.559,transport,fork
+ep025,right,14.559,15.967,place,fork
+ep025,right,15.967,16.639,release,fork
+ep025,right,16.639,17.784,idle,
+ep026,left,0.0,0.924,idle,
+ep026,left,0.924,2.094,reach,wine glass
+ep026,left,2.094,3.059,grasp,wine glass
+ep026,left,3.059,4.626,transport,wine glass
+ep026,left,4.626,5.89,place,wine glass
+ep026,left,5.89,6.639,release,wine glass
+ep026,left,6.639,7.792,reach,cup
+ep026,left,7.792,9.068,grasp,cup
+ep026,left,9.068,10.563,transport,cup
+ep026,left,10.563,11.806,place,cup
+ep026,left,11.806,12.678,release,cup
+ep026,left,12.678,16.997,idle,
+ep026,right,0.0,0.658,idle,
+ep026,right,0.658,1.287,reach,wine glass
+ep026,right,1.287,2.365,grasp,wine glass
+ep026,right,2.365,3.922,transport,wine glass
+ep026,right,3.922,5.142,place,wine glass
+ep026,right,5.142,5.749,release,wine glass
+ep026,right,5.749,6.56,reach,bowl
+ep026,right,6.56,7.815,grasp,bowl
+ep026,right,7.815,8.891,transport,bowl
+ep026,right,8.891,10.041,place,bowl
+ep026,right,10.041,10.849,release,bowl
+ep026,right,10.849,11.946,reach,bowl
+ep026,right,11.946,12.974,grasp,bowl
+ep026,right,12.974,14.247,transport,bowl
+ep026,right,14.247,15.427,place,bowl
+ep026,right,15.427,16.188,release,bowl
+ep026,right,16.188,16.997,idle,
+ep027,left,0.0,0.877,idle,
+ep027,left,0.877,1.623,reach,wine glass
+ep027,left,1.623,2.914,grasp,wine glass
+ep027,left,2.914,4.276,transport,wine glass
+ep027,left,4.276,5.409,place,wine glass
+ep027,left,5.409,6.142,release,wine glass
+ep027,left,6.142,7.062,reach,wine glass
+ep027,left,7.062,8.335,grasp,wine glass
+ep027,left,8.335,10.227,transport,wine glass
+ep027,left,10.227,11.339,place,wine glass
+ep027,left,11.339,11.946,release,wine glass
+ep027,left,11.946,13.112,idle,
+ep027,right,0.0,0.859,idle,
+ep027,right,0.859,1.831,reach,plate
+ep027,right,1.831,2.803,grasp,plate
+ep027,right,2.803,3.994,transport,plate
+ep027,right,3.994,5.428,place,plate
+ep027,right,5.428,6.279,release,plate
+ep027,right,6.279,7.294,reach,fork
+ep027,right,7.294,8.541,grasp,fork
+ep027,right,8.541,9.995,transport,fork
+ep027,right,9.995,11.194,place,fork
+ep027,right,11.194,11.96,release,fork
+ep027,right,11.96,13.112,idle,
+ep028,left,0.0,0.878,idle,
+ep028,left,0.878,1.652,reach,fork
+ep028,left,1.652,2.959,grasp,fork
+ep028,left,2.959,4.659,transport,fork
+ep028,left,4.659,6.149,place,fork
+ep028,left,6.149,6.95,release,fork
+ep028,left,6.95,12.617,idle,
+ep028,right,0.0,0.974,idle,
+ep028,right,0.974,1.87,reach,bowl
+ep028,right,1.87,2.705,grasp,bowl
+ep028,right,2.705,4.197,transport,bowl
+ep028,right,4.197,5.39,place,bowl
+ep028,right,5.39,6.149,release,bowl
+ep028,right,6.149,6.819,reach,plate
+ep028,right,6.819,7.835,grasp,plate
+ep028,right,7.835,9.444,transport,plate
+ep028,right,9.444,10.723,place,plate
+ep028,right,10.723,11.439,release,plate
+ep028,right,11.439,12.617,idle,
+ep029,left,0.0,0.817,idle,
+ep029,left,0.817,1.513,reach,cup
+ep029,left,1.513,2.793,grasp,cup
+ep029,left,2.793,4.674,transport,cup
+ep029,left,4.674,6.137,place,cup
+ep029,left,6.137,6.769,release,cup
+ep029,left,6.769,7.527,reach,plate
+ep029,left,7.527,8.506,grasp,plate
+ep029,left,8.506,9.75,transport,plate
+ep029,left,9.75,11.248,place,plate
+ep029,left,11.248,11.878,release,plate
+ep029,left,11.878,18.342,idle,
+ep029,right,0.0,0.674,idle,
+ep029,right,0.674,1.793,reach,fork
+ep029,right,1.793,2.798,grasp,fork
+ep029,right,2.798,4.05,transport,fork
+ep029,right,4.05,5.329,place,fork
+ep029,right,5.329,5.965,release,fork
+ep029,right,5.965,7.085,reach,fork
+ep029,right,7.085,8.102,grasp,fork
+ep029,right,8.102,9.707,transport,fork
+ep029,right,9.707,11.187,place,fork
+ep029,right,11.187,12.056,release,fork
+ep029,right,12.056,13.19,reach,wine glass
+ep029,right,13.19,14.156,grasp,wine glass
+ep029,right,14.156,15.39,transport,wine glass
+ep029,right,15.39,16.632,place,wine glass
+ep029,right,16.632,17.313,release,wine glass
+ep029,right,17.313,18.342,idle,
+ep030,left,0.0,0.744,idle,
+ep030,left,0.744,1.753,reach,bowl
+ep030,left,1.753,3.147,grasp,bowl
+ep030,left,3.147,4.94,transport,bowl
+ep030,left,4.94,6.085,place,bowl
+ep030,left,6.085,6.822,release,bowl
+ep030,left,6.822,13.738,idle,
+ep030,right,0.0,0.758,idle,
+ep030,right,0.758,1.915,reach,fork
+ep030,right,1.915,3.125,grasp,fork
+ep030,right,3.125,4.98,transport,fork
+ep030,right,4.98,6.02,place,fork
+ep030,right,6.02,6.655,release,fork
+ep030,right,6.655,7.575,reach,fork
+ep030,right,7.575,8.953,grasp,fork
+ep030,right,8.953,10.906,transport,fork
+ep030,right,10.906,12.128,place,fork
+ep030,right,12.128,12.898,release,fork
+ep030,right,12.898,13.738,idle,
+ep031,left,0.0,0.838,idle,
+ep031,left,0.838,1.894,reach,bowl
+ep031,left,1.894,2.896,grasp,bowl
+ep031,left,2.896,4.316,transport,bowl
+ep031,left,4.316,5.664,place,bowl
+ep031,left,5.664,6.482,release,bowl
+ep031,left,6.482,12.27,idle,
+ep031,right,0.0,0.804,idle,
+ep031,right,0.804,1.505,reach,cup
+ep031,right,1.505,2.801,grasp,cup
+ep031,right,2.801,4.298,transport,cup
+ep031,right,4.298,5.62,place,cup
+ep031,right,5.62,6.329,release,cup
+ep031,right,6.329,6.975,reach,bowl
+ep031,right,6.975,7.911,grasp,bowl
+ep031,right,7.911,9.517,transport,bowl
+ep031,right,9.517,10.641,place,bowl
+ep031,right,10.641,11.268,release,bowl
+ep031,right,11.268,12.27,idle,
+ep032,left,0.0,0.65,idle,
+ep032,left,0.65,1.356,reach,plate
+ep032,left,1.356,2.55,grasp,plate
+ep032,left,2.55,4.054,transport,plate
+ep032,left,4.054,5.143,place,plate
+ep032,left,5.143,5.928,release,plate
+ep032,left,5.928,13.349,idle,
+ep032,right,0.0,0.831,idle,
+ep032,right,0.831,2.005,reach,bowl
+ep032,right,2.005,3.26,grasp,bowl
+ep032,right,3.26,4.906,transport,bowl
+ep032,right,4.906,6.142,place,bowl
+ep032,right,6.142,6.975,release,bowl
+ep032,right,6.975,7.67,reach,plate
+ep032,right,7.67,8.788,grasp,plate
+ep032,right,8.788,10.202,transport,plate
+ep032,right,10.202,11.459,place,plate
+ep032,right,11.459,12.273,release,plate
+ep032,right,12.273,13.349,idle,
+ep033,left,0.0,0.963,idle,
+ep033,left,0.963,1.708,reach,plate
+ep033,left,1.708,2.897,grasp,plate
+ep033,left,2.897,4.617,transport,plate
+ep033,left,4.617,6.005,place,plate
+ep033,left,6.005,6.736,release,plate
+ep033,left,6.736,12.985,idle,
+ep033,right,0.0,0.911,idle,
+ep033,right,0.911,1.814,reach,fork
+ep033,right,1.814,3.185,grasp,fork
+ep033,right,3.185,5.061,transport,fork
+ep033,right,5.061,6.547,place,fork
+ep033,right,6.547,7.356,release,fork
+ep033,right,7.356,7.983,reach,cup
+ep033,right,7.983,9.015,grasp,cup
+ep033,right,9.015,10.375,transport,cup
+ep033,right,10.375,11.391,place,cup
+ep033,right,11.391,12.015,release,cup
+ep033,right,12.015,12.985,idle,
+ep034,left,0.0,0.8,idle,
+ep034,left,0.8,1.584,reach,plate
+ep034,left,1.584,2.547,grasp,plate
+ep034,left,2.547,3.839,transport,plate
+ep034,left,3.839,5.301,place,plate
+ep034,left,5.301,6.063,release,plate
+ep034,left,6.063,12.473,idle,
+ep034,right,0.0,0.87,idle,
+ep034,right,0.87,1.819,reach,bowl
+ep034,right,1.819,3.097,grasp,bowl
+ep034,right,3.097,4.189,transport,bowl
+ep034,right,4.189,5.501,place,bowl
+ep034,right,5.501,6.103,release,bowl
+ep034,right,6.103,6.797,reach,bowl
+ep034,right,6.797,7.74,grasp,bowl
+ep034,right,7.74,9.544,transport,bowl
+ep034,right,9.544,10.841,place,bowl
+ep034,right,10.841,11.661,release,bowl
+ep034,right,11.661,12.473,idle,
+ep035,left,0.0,0.974,idle,
+ep035,left,0.974,2.058,reach,plate
+ep035,left,2.058,2.933,grasp,plate
+ep035,left,2.933,4.486,transport,plate
+ep035,left,4.486,5.737,place,plate
+ep035,left,5.737,6.391,release,plate
+ep035,left,6.391,7.237,reach,fork
+ep035,left,7.237,8.321,grasp,fork
+ep035,left,8.321,9.756,transport,fork
+ep035,left,9.756,11.054,place,fork
+ep035,left,11.054,11.936,release,fork
+ep035,left,11.936,16.898,idle,
+ep035,right,0.0,0.691,idle,
+ep035,right,0.691,1.41,reach,cup
+ep035,right,1.41,2.758,grasp,cup
+ep035,right,2.758,4.24,transport,cup
+ep035,right,4.24,5.592,place,cup
+ep035,right,5.592,6.389,release,cup
+ep035,right,6.389,7.176,reach,bowl
+ep035,right,7.176,7.988,grasp,bowl
+ep035,right,7.988,9.079,transport,bowl
+ep035,right,9.079,10.183,place,bowl
+ep035,right,10.183,11.003,release,bowl
+ep035,right,11.003,11.998,reach,plate
+ep035,right,11.998,12.858,grasp,plate
+ep035,right,12.858,13.976,transport,plate
+ep035,right,13.976,15.016,place,plate
+ep035,right,15.016,15.879,release,plate
+ep035,right,15.879,16.898,idle,
+ep036,left,0.0,0.85,idle,
+ep036,left,0.85,1.806,reach,fork
+ep036,left,1.806,3.118,grasp,fork
+ep036,left,3.118,4.89,transport,fork
+ep036,left,4.89,6.385,place,fork
+ep036,left,6.385,7.124,release,fork
+ep036,left,7.124,8.149,reach,fork
+ep036,left,8.149,9.282,grasp,fork
+ep036,left,9.282,11.199,transport,fork
+ep036,left,11.199,12.229,place,fork
+ep036,left,12.229,13.0,release,fork
+ep036,left,13.0,13.927,idle,
+ep036,right,0.0,0.876,idle,
+ep036,right,0.876,1.822,reach,plate
+ep036,right,1.822,3.068,grasp,plate
+ep036,right,3.068,4.812,transport,plate
+ep036,right,4.812,5.858,place,plate
+ep036,right,5.858,6.611,release,plate
+ep036,right,6.611,7.692,reach,bowl
+ep036,right,7.692,8.696,grasp,bowl
+ep036,right,8.696,10.673,transport,bowl
+ep036,right,10.673,11.771,place,bowl
+ep036,right,11.771,12.53,release,bowl
+ep036,right,12.53,13.927,idle,
+ep037,left,0.0,0.765,idle,
+ep037,left,0.765,1.866,reach,wine glass
+ep037,left,1.866,3.184,grasp,wine glass
+ep037,left,3.184,4.873,transport,wine glass
+ep037,left,4.873,6.019,place,wine glass
+ep037,left,6.019,6.645,release,wine glass
+ep037,left,6.645,12.574,idle,
+ep037,right,0.0,0.676,idle,
+ep037,right,0.676,1.336,reach,plate
+ep037,right,1.336,2.191,grasp,plate
+ep037,right,2.191,4.183,transport,plate
+ep037,right,4.183,5.571,place,plate
+ep037,right,5.571,6.318,release,plate
+ep037,right,6.318,7.016,reach,fork
+ep037,right,7.016,7.845,grasp,fork
+ep037,right,7.845,9.457,transport,fork
+ep037,right,9.457,10.768,place,fork
+ep037,right,10.768,11.655,release,fork
+ep037,right,11.655,12.574,idle,
+ep038,left,0.0,0.979,idle,
+ep038,left,0.979,1.713,reach,fork
+ep038,left,1.713,2.633,grasp,fork
+ep038,left,2.633,4.115,transport,fork
+ep038,left,4.115,5.255,place,fork
+ep038,left,5.255,6.021,release,fork
+ep038,left,6.021,6.927,reach,plate
+ep038,left,6.927,7.933,grasp,plate
+ep038,left,7.933,9.794,transport,plate
+ep038,left,9.794,11.058,place,plate
+ep038,left,11.058,11.673,release,plate
+ep038,left,11.673,12.726,idle,
+ep038,right,0.0,0.952,idle,
+ep038,right,0.952,2.141,reach,fork
+ep038,right,2.141,3.083,grasp,fork
+ep038,right,3.083,4.146,transport,fork
+ep038,right,4.146,5.371,place,fork
+ep038,right,5.371,6.14,release,fork
+ep038,right,6.14,6.885,reach,plate
+ep038,right,6.885,7.968,grasp,plate
+ep038,right,7.968,9.314,transport,plate
+ep038,right,9.314,10.738,place,plate
+ep038,right,10.738,11.587,release,plate
+ep038,right,11.587,12.726,idle,
+ep039,left,0.0,0.609,idle,
+ep039,left,0.609,1.468,reach,bowl
+ep039,left,1.468,2.774,grasp,bowl
+ep039,left,2.774,4.718,transport,bowl
+ep039,left,4.718,6.013,place,bowl
+ep039,left,6.013,6.691,release,bowl
+ep039,left,6.691,16.669,idle,
+ep039,right,0.0,0.738,idle,
+ep039,right,0.738,1.462,reach,wine glass
+ep039,right,1.462,2.385,grasp,wine glass
+ep039,right,2.385,3.401,transport,wine glass
+ep039,right,3.401,4.415,place,wine glass
+ep039,right,4.415,5.257,release,wine glass
+ep039,right,5.257,5.949,reach,fork
+ep039,right,5.949,6.759,grasp,fork
+ep039,right,6.759,8.335,transport,fork
+ep039,right,8.335,9.458,place,fork
+ep039,right,9.458,10.243,release,fork
+ep039,right,10.243,11.01,reach,wine glass
+ep039,right,11.01,12.174,grasp,wine glass
+ep039,right,12.174,13.464,transport,wine glass
+ep039,right,13.464,14.844,place,wine glass
+ep039,right,14.844,15.521,release,wine glass
+ep039,right,15.521,16.669,idle,
