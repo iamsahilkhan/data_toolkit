@@ -1,0 +1,5 @@
+numpy
+scipy
+pytest
+# optional, for validation/validate_against_evo.py
+evo
