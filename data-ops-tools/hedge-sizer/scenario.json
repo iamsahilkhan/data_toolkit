@@ -1,0 +1,17 @@
+{
+  "event": "Manchester United relegated from the Premier League, 2026-27 season",
+  "as_of": "2026-11-18",
+  "loss_gbp": 10000000,
+  "loss_note": "Illustrative client: £20m a year of United-linked profit, assumed to halve on relegation (the same 50% cut the club's kit deal applies outside the Premier League). Replace with the client's own figure.",
+  "fx_usd_per_gbp": 1.33,
+  "price": 0.063,
+  "price_source": "Polymarket, Premier League: Teams relegated (2026-27), Manchester United Yes, 18 Nov 2026",
+  "venue_volume_usd": 28829,
+  "bookmaker_odds": {"Spreadex": [16, 1], "bet365": [14, 1]},
+  "view_prob": 0.209,
+  "view_source": "Opta supercomputer, November 2026",
+  "coverage": 1.0,
+  "fee_multiplier": 1.0,
+  "ladder_prices": [0.063, 0.08, 0.10, 0.15],
+  "ladder_coverages": [0.5, 1.0]
+}
