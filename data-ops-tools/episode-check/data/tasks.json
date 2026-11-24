@@ -1,0 +1,20 @@
+{
+  "pick_place_cup": {
+    "requires_grasp": true,
+    "min_path_m": 0.2,
+    "max_idle_head_s": 2.0,
+    "max_idle_tail_s": 2.0
+  },
+  "wipe_table": {
+    "requires_grasp": true,
+    "min_path_m": 0.2,
+    "max_idle_head_s": 2.0,
+    "max_idle_tail_s": 2.0
+  },
+  "open_drawer": {
+    "requires_grasp": true,
+    "min_path_m": 0.2,
+    "max_idle_head_s": 2.0,
+    "max_idle_tail_s": 2.0
+  }
+}

@@ -1,0 +1,642 @@
+{
+ "ep000": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.03
+ },
+ "ep001": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 8.14
+ },
+ "ep002": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.01
+ },
+ "ep003": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 18.68
+ },
+ "ep004": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.65
+ },
+ "ep005": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.95
+ },
+ "ep006": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 23.68
+ },
+ "ep007": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.33
+ },
+ "ep008": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 9.73
+ },
+ "ep009": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.67
+ },
+ "ep010": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.52
+ },
+ "ep011": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.15
+ },
+ "ep012": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.69
+ },
+ "ep013": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 2.78
+ },
+ "ep014": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.77
+ },
+ "ep015": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.9
+ },
+ "ep016": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.1
+ },
+ "ep017": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.64
+ },
+ "ep018": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.5
+ },
+ "ep019": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.87
+ },
+ "ep020": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.92
+ },
+ "ep021": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 7.23
+ },
+ "ep022": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 7.48
+ },
+ "ep023": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 11.61
+ },
+ "ep024": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.17
+ },
+ "ep025": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.06
+ },
+ "ep026": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.26
+ },
+ "ep027": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.52
+ },
+ "ep028": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 18.0
+ },
+ "ep029": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 7.32
+ },
+ "ep030": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 5.41
+ },
+ "ep031": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.32
+ },
+ "ep032": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.02
+ },
+ "ep033": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.13
+ },
+ "ep034": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 9.49
+ },
+ "ep035": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.43
+ },
+ "ep036": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.66
+ },
+ "ep037": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.33
+ },
+ "ep038": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 8.91
+ },
+ "ep039": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.96
+ },
+ "ep040": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.13
+ },
+ "ep041": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.17
+ },
+ "ep042": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.55
+ },
+ "ep043": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 23.19
+ },
+ "ep044": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.57
+ },
+ "ep045": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 13.81
+ },
+ "ep046": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.28
+ },
+ "ep047": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 9.45
+ },
+ "ep048": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 8.41
+ },
+ "ep049": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 4.39
+ },
+ "ep050": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 8.62
+ },
+ "ep051": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.1
+ },
+ "ep052": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 1.16
+ },
+ "ep053": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.29
+ },
+ "ep054": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.13
+ },
+ "ep055": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.98
+ },
+ "ep056": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.66
+ },
+ "ep057": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.97
+ },
+ "ep058": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.37
+ },
+ "ep059": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.02
+ },
+ "ep060": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 4.75
+ },
+ "ep061": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.4
+ },
+ "ep062": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.05
+ },
+ "ep063": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.9
+ },
+ "ep064": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 2.5
+ },
+ "ep065": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 16.44
+ },
+ "ep066": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 10.23
+ },
+ "ep067": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 18.41
+ },
+ "ep068": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.1
+ },
+ "ep069": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 13.74
+ },
+ "ep070": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 20.7
+ },
+ "ep071": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 7.11
+ },
+ "ep072": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 22.47
+ },
+ "ep073": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.56
+ },
+ "ep074": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 8.0
+ },
+ "ep075": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 8.38
+ },
+ "ep076": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.4
+ },
+ "ep077": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 19.37
+ },
+ "ep078": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.46
+ },
+ "ep079": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.19
+ },
+ "ep080": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 16.08
+ },
+ "ep081": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 8.63
+ },
+ "ep082": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 20.49
+ },
+ "ep083": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.0
+ },
+ "ep084": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.77
+ },
+ "ep085": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.05
+ },
+ "ep086": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 1.7
+ },
+ "ep087": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 7.82
+ },
+ "ep088": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 16.14
+ },
+ "ep089": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.78
+ },
+ "ep090": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.98
+ },
+ "ep091": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.02
+ },
+ "ep092": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 0.83
+ },
+ "ep093": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.13
+ },
+ "ep094": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 6.71
+ },
+ "ep095": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 9.97
+ },
+ "ep096": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 6.55
+ },
+ "ep097": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.53
+ },
+ "ep098": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 2.73
+ },
+ "ep099": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.64
+ },
+ "ep100": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 22.55
+ },
+ "ep101": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 16.87
+ },
+ "ep102": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 21.66
+ },
+ "ep103": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 7.65
+ },
+ "ep104": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 5.4
+ },
+ "ep105": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 21.82
+ },
+ "ep106": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 10.07
+ },
+ "ep107": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.03
+ },
+ "ep108": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.15
+ },
+ "ep109": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 1.58
+ },
+ "ep110": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 13.89
+ },
+ "ep111": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.02
+ },
+ "ep112": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.42
+ },
+ "ep113": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 8.15
+ },
+ "ep114": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 7.38
+ },
+ "ep115": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 4.24
+ },
+ "ep116": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.97
+ },
+ "ep117": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.46
+ },
+ "ep118": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.66
+ },
+ "ep119": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 9.78
+ },
+ "ep120": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 22.07
+ },
+ "ep121": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 8.27
+ },
+ "ep122": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.47
+ },
+ "ep123": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 11.84
+ },
+ "ep124": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.17
+ },
+ "ep125": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.23
+ },
+ "ep126": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 11.18
+ },
+ "ep127": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.78
+ },
+ "ep128": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.89
+ },
+ "ep129": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 10.88
+ },
+ "ep130": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 10.42
+ },
+ "ep131": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.23
+ },
+ "ep132": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 4.35
+ },
+ "ep133": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.2
+ },
+ "ep134": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 8.63
+ },
+ "ep135": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 9.24
+ },
+ "ep136": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 12.09
+ },
+ "ep137": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.16
+ },
+ "ep138": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 0.23
+ },
+ "ep139": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 7.79
+ },
+ "ep140": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 6.51
+ },
+ "ep141": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.28
+ },
+ "ep142": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 4.49
+ },
+ "ep143": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.11
+ },
+ "ep144": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 18.46
+ },
+ "ep145": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 3.61
+ },
+ "ep146": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 13.09
+ },
+ "ep147": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 14.71
+ },
+ "ep148": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.69
+ },
+ "ep149": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 10.23
+ },
+ "ep150": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 1.76
+ },
+ "ep151": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 1.84
+ },
+ "ep152": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 12.87
+ },
+ "ep153": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.71
+ },
+ "ep154": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 2.96
+ },
+ "ep155": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 6.93
+ },
+ "ep156": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 6.81
+ },
+ "ep157": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 10.81
+ },
+ "ep158": {
+  "source": "fr2_desk_groundtruth.txt",
+  "start_s": 5.89
+ },
+ "ep159": {
+  "source": "freiburg1_xyz-groundtruth.txt",
+  "start_s": 3.32
+ }
+}

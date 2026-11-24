@@ -1,0 +1,280 @@
+{
+ "ep000": [],
+ "ep001": [],
+ "ep002": [],
+ "ep003": [],
+ "ep004": [
+  "aperture_out_of_range"
+ ],
+ "ep005": [],
+ "ep006": [
+  "too_short_path"
+ ],
+ "ep007": [
+  "too_short_path"
+ ],
+ "ep008": [],
+ "ep009": [],
+ "ep010": [],
+ "ep011": [],
+ "ep012": [],
+ "ep013": [
+  "tracking_gap"
+ ],
+ "ep014": [],
+ "ep015": [],
+ "ep016": [
+  "no_grasp"
+ ],
+ "ep017": [],
+ "ep018": [],
+ "ep019": [
+  "idle_tail"
+ ],
+ "ep020": [],
+ "ep021": [],
+ "ep022": [
+  "rotation_jump"
+ ],
+ "ep023": [
+  "no_grasp"
+ ],
+ "ep024": [],
+ "ep025": [],
+ "ep026": [],
+ "ep027": [
+  "idle_tail"
+ ],
+ "ep028": [],
+ "ep029": [],
+ "ep030": [
+  "too_short_path"
+ ],
+ "ep031": [],
+ "ep032": [],
+ "ep033": [
+  "position_jump"
+ ],
+ "ep034": [],
+ "ep035": [],
+ "ep036": [],
+ "ep037": [
+  "tracking_gap"
+ ],
+ "ep038": [],
+ "ep039": [],
+ "ep040": [],
+ "ep041": [],
+ "ep042": [],
+ "ep043": [
+  "idle_tail"
+ ],
+ "ep044": [
+  "no_grasp"
+ ],
+ "ep045": [
+  "tracking_gap"
+ ],
+ "ep046": [],
+ "ep047": [
+  "no_grasp"
+ ],
+ "ep048": [],
+ "ep049": [
+  "position_jump"
+ ],
+ "ep050": [],
+ "ep051": [
+  "idle_tail"
+ ],
+ "ep052": [
+  "idle_head"
+ ],
+ "ep053": [
+  "tracking_gap"
+ ],
+ "ep054": [],
+ "ep055": [],
+ "ep056": [],
+ "ep057": [
+  "idle_head"
+ ],
+ "ep058": [],
+ "ep059": [
+  "idle_tail"
+ ],
+ "ep060": [],
+ "ep061": [],
+ "ep062": [],
+ "ep063": [],
+ "ep064": [
+  "no_grasp"
+ ],
+ "ep065": [
+  "no_grasp"
+ ],
+ "ep066": [
+  "no_grasp"
+ ],
+ "ep067": [],
+ "ep068": [
+  "no_grasp"
+ ],
+ "ep069": [],
+ "ep070": [],
+ "ep071": [],
+ "ep072": [],
+ "ep073": [],
+ "ep074": [],
+ "ep075": [],
+ "ep076": [
+  "aperture_stuck"
+ ],
+ "ep077": [],
+ "ep078": [],
+ "ep079": [],
+ "ep080": [
+  "position_jump"
+ ],
+ "ep081": [
+  "idle_head"
+ ],
+ "ep082": [],
+ "ep083": [
+  "idle_tail"
+ ],
+ "ep084": [],
+ "ep085": [
+  "tracking_gap"
+ ],
+ "ep086": [],
+ "ep087": [],
+ "ep088": [
+  "frozen_pose"
+ ],
+ "ep089": [
+  "rotation_jump"
+ ],
+ "ep090": [
+  "no_grasp"
+ ],
+ "ep091": [],
+ "ep092": [
+  "no_grasp"
+ ],
+ "ep093": [
+  "tracking_gap"
+ ],
+ "ep094": [],
+ "ep095": [
+  "no_grasp"
+ ],
+ "ep096": [],
+ "ep097": [],
+ "ep098": [],
+ "ep099": [
+  "idle_tail"
+ ],
+ "ep100": [],
+ "ep101": [],
+ "ep102": [],
+ "ep103": [],
+ "ep104": [],
+ "ep105": [],
+ "ep106": [],
+ "ep107": [
+  "idle_tail"
+ ],
+ "ep108": [],
+ "ep109": [],
+ "ep110": [
+  "aperture_stuck"
+ ],
+ "ep111": [],
+ "ep112": [],
+ "ep113": [
+  "no_grasp"
+ ],
+ "ep114": [],
+ "ep115": [
+  "no_grasp"
+ ],
+ "ep116": [],
+ "ep117": [],
+ "ep118": [
+  "no_grasp"
+ ],
+ "ep119": [],
+ "ep120": [],
+ "ep121": [
+  "rotation_jump"
+ ],
+ "ep122": [],
+ "ep123": [
+  "idle_tail"
+ ],
+ "ep124": [
+  "aperture_stuck"
+ ],
+ "ep125": [
+  "tracking_gap"
+ ],
+ "ep126": [],
+ "ep127": [],
+ "ep128": [],
+ "ep129": [],
+ "ep130": [],
+ "ep131": [
+  "idle_tail"
+ ],
+ "ep132": [],
+ "ep133": [
+  "tracking_gap"
+ ],
+ "ep134": [
+  "aperture_out_of_range"
+ ],
+ "ep135": [],
+ "ep136": [],
+ "ep137": [
+  "frozen_pose"
+ ],
+ "ep138": [],
+ "ep139": [
+  "no_grasp"
+ ],
+ "ep140": [
+  "no_grasp"
+ ],
+ "ep141": [
+  "tracking_gap"
+ ],
+ "ep142": [],
+ "ep143": [],
+ "ep144": [
+  "aperture_out_of_range"
+ ],
+ "ep145": [],
+ "ep146": [],
+ "ep147": [
+  "idle_tail"
+ ],
+ "ep148": [],
+ "ep149": [
+  "tracking_gap"
+ ],
+ "ep150": [
+  "frozen_pose"
+ ],
+ "ep151": [],
+ "ep152": [],
+ "ep153": [],
+ "ep154": [],
+ "ep155": [],
+ "ep156": [],
+ "ep157": [
+  "tracking_gap"
+ ],
+ "ep158": [],
+ "ep159": []
+}
