@@ -3,7 +3,7 @@
 A kit for labeling AI conversations against a written safety policy, and for
 measuring the quality of the labels, not just the count.
 
-> \*\*Content warning:\*\* the conversations come from a public red-teaming
+> the conversations come from a public red-teaming
 > dataset. They include slurs, violent requests and self-harm content.
 
 ## Results at a glance
