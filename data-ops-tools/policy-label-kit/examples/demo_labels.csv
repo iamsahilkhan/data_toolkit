@@ -1,0 +1,121 @@
+id,verdict,rule,severity,confidence,note,seconds,labelled_at
+c001,no,,,low,,70,demo
+c002,no,,,low,,88,demo
+c003,yes,P5,1,high,,47,demo
+c004,yes,P4,2,low,,50,demo
+c005,yes,P4,1,high,,35,demo
+c006,borderline,P6,3,high,demo note: random label,27,demo
+c007,no,,,medium,,26,demo
+c008,borderline,P1,3,low,demo note: random label,57,demo
+c009,no,,,high,,35,demo
+c010,no,,,high,,107,demo
+c011,yes,P5,3,high,,44,demo
+c012,no,,,high,,111,demo
+c013,yes,P1,3,low,,83,demo
+c014,no,,,medium,,119,demo
+c015,no,,,high,,78,demo
+c016,no,,,low,,43,demo
+c017,no,,,low,,30,demo
+c018,no,,,high,,83,demo
+c019,borderline,P6,2,medium,demo note: random label,97,demo
+c020,borderline,P1,3,medium,demo note: random label,41,demo
+c021,no,,,low,,82,demo
+c022,no,,,high,,29,demo
+c023,no,,,high,,60,demo
+c024,no,,,medium,,96,demo
+c025,no,,,medium,,28,demo
+c026,borderline,P3,2,high,demo note: random label,105,demo
+c027,yes,P6,3,medium,,102,demo
+c028,no,,,high,,77,demo
+c029,yes,P4,3,medium,,22,demo
+c030,borderline,P3,1,high,demo note: random label,34,demo
+c031,no,,,low,,118,demo
+c032,yes,P6,1,medium,,70,demo
+c033,borderline,P4,1,low,demo note: random label,77,demo
+c034,no,,,medium,,37,demo
+c035,borderline,P7,3,medium,demo note: random label,110,demo
+c036,no,,,medium,,107,demo
+c037,borderline,P2,1,low,demo note: random label,42,demo
+c038,yes,P6,1,low,,82,demo
+c039,borderline,P2,2,medium,demo note: random label,20,demo
+c040,yes,P5,2,high,,92,demo
+c041,no,,,low,,108,demo
+c042,borderline,P5,3,high,demo note: random label,114,demo
+c043,yes,P7,3,high,,70,demo
+c044,no,,,medium,,33,demo
+c045,no,,,medium,,27,demo
+c046,yes,P2,2,low,,34,demo
+c047,no,,,low,,33,demo
+c048,yes,P2,3,low,,66,demo
+c049,no,,,low,,46,demo
+c050,no,,,low,,101,demo
+c051,yes,P3,3,medium,,80,demo
+c052,yes,P7,2,medium,,81,demo
+c053,no,,,low,,38,demo
+c054,yes,P3,3,medium,,81,demo
+c055,borderline,P2,3,low,demo note: random label,46,demo
+c056,borderline,P5,2,low,demo note: random label,108,demo
+c057,no,,,low,,117,demo
+c058,no,,,high,,31,demo
+c059,no,,,medium,,86,demo
+c060,no,,,low,,65,demo
+c061,no,,,high,,89,demo
+c062,no,,,medium,,101,demo
+c063,yes,P7,1,low,,71,demo
+c064,no,,,low,,45,demo
+c118,yes,P4,2,high,,23,demo
+c065,borderline,P7,2,medium,demo note: random label,53,demo
+c066,yes,P5,2,medium,,112,demo
+c067,borderline,P3,1,low,demo note: random label,33,demo
+c068,yes,P2,2,low,,81,demo
+c069,no,,,high,,20,demo
+c106,yes,P3,3,medium,,102,demo
+c070,yes,P6,1,medium,,120,demo
+c105,yes,P4,1,medium,,42,demo
+c071,no,,,high,,62,demo
+c109,borderline,P2,3,medium,demo note: random label,79,demo
+c115,no,,,low,,112,demo
+c072,yes,P2,1,low,,95,demo
+c073,borderline,P7,3,low,demo note: random label,98,demo
+c074,borderline,P4,3,medium,demo note: random label,39,demo
+c075,no,,,low,,22,demo
+c076,yes,P6,3,low,,87,demo
+c077,no,,,low,,75,demo
+c078,borderline,P2,1,low,demo note: random label,52,demo
+c112,yes,P3,3,low,,117,demo
+c079,no,,,medium,,89,demo
+c120,borderline,P1,1,low,demo note: random label,114,demo
+c080,no,,,medium,,104,demo
+c081,no,,,high,,73,demo
+c082,borderline,P5,1,high,demo note: random label,39,demo
+c083,no,,,low,,76,demo
+c084,no,,,high,,20,demo
+c110,no,,,low,,42,demo
+c113,borderline,P4,3,high,demo note: random label,35,demo
+c085,no,,,medium,,107,demo
+c086,no,,,high,,81,demo
+c087,no,,,low,,91,demo
+c119,yes,P2,1,medium,,25,demo
+c088,no,,,high,,77,demo
+c089,no,,,low,,76,demo
+c102,no,,,high,,97,demo
+c090,no,,,high,,55,demo
+c108,borderline,P5,3,medium,demo note: random label,84,demo
+c114,no,,,medium,,91,demo
+c091,borderline,P2,2,low,demo note: random label,73,demo
+c101,no,,,medium,,60,demo
+c092,yes,P2,2,low,,47,demo
+c116,no,,,low,,119,demo
+c111,no,,,high,,102,demo
+c117,borderline,P1,1,medium,demo note: random label,37,demo
+c093,borderline,P2,3,low,demo note: random label,70,demo
+c107,yes,P6,1,low,,110,demo
+c094,no,,,high,,71,demo
+c103,no,,,low,,65,demo
+c095,no,,,high,,66,demo
+c096,yes,P5,2,medium,,110,demo
+c104,yes,P4,2,high,,99,demo
+c097,yes,P1,1,low,,33,demo
+c098,yes,P3,1,low,,54,demo
+c099,no,,,medium,,106,demo
+c100,borderline,P3,2,low,demo note: random label,88,demo
